@@ -56,7 +56,7 @@ Where `file1` is the input file, `cmd1` is the first command, `cmd2` is the seco
 ## Installation / Compile / Run
 1. ⬇️ Clone the repository:
     ```
-    git clone https://github.com/yourusername/pipex.git
+    git clone https://github.com/lbelet/pipex.git
     cd pipex
     ```
 2. 🔧 Compile the project:
