@@ -76,7 +76,6 @@ Where `file1` is the input file, `cmd1` is the first command, `cmd2` is the seco
 This will take the contents of `infile`, pass it through `ls -l`, then pass the output of `ls -l` through `wc -l`, and finally save the result to `outfile`.
 
 ## Additional Resources
-- [Unix Pipes](https://www.gnu.org/software/libc/manual/html_node/Pipes.html)
 - [Process Management](https://man7.org/linux/man-pages/man2/fork.2.html)
 - [File Descriptor Manipulation](https://man7.org/linux/man-pages/man2/dup.2.html)
 - [Redirections](https://tldp.org/LDP/abs/html/io-redirection.html)
